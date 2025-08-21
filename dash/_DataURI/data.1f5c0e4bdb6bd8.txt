@@ -1,0 +1,1 @@
+chrome-extension://jmekfmbnaedfebfnmakmokmlfpblbfdm/api/content_script_bin.js

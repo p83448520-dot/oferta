@@ -1,0 +1,1 @@
+chrome-extension://hjbfbllnfhppnhjdhhbmjabikmkfekgf/kins_content.js
